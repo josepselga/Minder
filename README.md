@@ -5,6 +5,7 @@ _Model–view–controller (MVC) Project_
 * Java Client-Server
 * MySQL Database
 
+Video: https://youtu.be/Vv5N63C0tBM
 
 **Ask for access to Minder's private development repositories**
 
