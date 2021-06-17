@@ -26,12 +26,18 @@ It should be noted that the program must be able to support multiple connected c
 # Images
 
 * Client
+
+<br />
+
 ![Minder Client Login](/images/client-login.png)
 ![Minder Client Register](/images/client-register.png)
 ![Minder Client Principal](/images/client-prin.png)
 ![Minder Client Chat](/images/chat.png)
 
 * Server
+
+<br />
+
 ![Minder Server Principal](/images/server-principal.png)
 ![Minder Server Stats 1](/images/server-stat1.png)
 ![Minder Server Stats 2](/images/server-stat2.png)
