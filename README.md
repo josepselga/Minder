@@ -1,4 +1,4 @@
-# Minder
+![Minder](/images/minder.png)
 
 _Model–view–controller (MVC) Project_
 
@@ -26,6 +26,12 @@ It should be noted that the program must be able to support multiple connected c
 # Images
 
 * Client
-
+![Minder Client Login](/images/client-login.png)
+![Minder Client Register](/images/client-register.png)
+![Minder Client Principal](/images/client-prin.png)
+![Minder Client Chat](/images/chat.png)
 
 * Server
+![Minder Server Principal](/images/server-principal.png)
+![Minder Server Stats 1](/images/server-stat1.png)
+![Minder Server Stats 2](/images/server-stat2.png)
