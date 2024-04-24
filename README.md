@@ -6,9 +6,10 @@ _Model–view–controller (MVC) Project_
 * MySQL Database
 
 Project Structure:
-Minder Server: https://github.com/josepselga/Minder_Server
-Minder Client: https://github.com/josepselga/Minder_Client
-Minder Database: https://github.com/josepselga/Minder_Database
+
+* Minder Server: https://github.com/josepselga/Minder_Server
+* Minder Client: https://github.com/josepselga/Minder_Client
+* Minder Database: https://github.com/josepselga/Minder_Database
 
 Video: https://youtu.be/Vv5N63C0tBM
 
